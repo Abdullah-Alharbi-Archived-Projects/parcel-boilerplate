@@ -12,6 +12,7 @@
 6. uses dom directly
 7. Super fast
 8. uses scss to customize bootstrap 4 components
+9. Uses Jsx
 
 ---
 
@@ -48,6 +49,8 @@ $ npm run dev # or use yarn
 |-- public
 |   `-- index.html # application entry
 `-- src # all components goes here
+    |-- components # all your components should go there
+                   # Note: import your components in App.jsx
     |-- App.jsx # the entry component
     |-- app.js # the application entry
     |-- compiler
