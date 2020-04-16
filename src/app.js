@@ -4,7 +4,7 @@ import compile from "./compiler";
 window.compile = compile; // add the compile function to the global object browser
 
 // app component
-import App from "./App";
+import App from "./App.jsx";
 
 // Bootstrap
 import "bootstrap";
