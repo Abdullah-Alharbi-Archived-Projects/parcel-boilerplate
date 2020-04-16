@@ -33,4 +33,4 @@ $ npm install # you can also use yarn
 $ npm run dev # or use yarn
 ```
 
-5. Start developemnt
+4. Start developemnt
