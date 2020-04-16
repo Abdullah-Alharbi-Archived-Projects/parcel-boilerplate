@@ -1,1 +1,1 @@
-console.log("It works");
+import "./scss/app.scss"; // scss entry point
