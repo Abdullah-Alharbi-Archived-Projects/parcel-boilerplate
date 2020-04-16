@@ -1,8 +1,8 @@
-# Parcel Boilerplate
+# 📦 Parcel Boilerplate
 
 > This is a simple and easy workflow for front-end development using vanila javascript
 
-## Features:
+## 💎 Features:
 
 1. This boilerplate shiped with bootstrap 4
 2. Easy to setup
@@ -15,7 +15,7 @@
 
 ---
 
-### Setup
+### ⚙ Setup
 
 1. clone this repository
 
@@ -39,7 +39,7 @@ $ npm run dev # or use yarn
 
 ---
 
-### Structure
+### 🗺 Structure
 
 ```
 .
@@ -62,7 +62,7 @@ $ npm run dev # or use yarn
 
 ---
 
-### Build The Application
+### 📚 Build The Application
 
 **Run this script to build the application**
 
