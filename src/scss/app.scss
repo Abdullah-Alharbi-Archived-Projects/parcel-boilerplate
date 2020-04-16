@@ -1,5 +1,11 @@
+// bootstrap scss
+@import "~bootstrap/scss/bootstrap";
+
+// overwrite bootstrap variables
 @import "./variables";
 
+// overwrite any defaults
 @import "./defaults";
 
+// this directory for custom components
 @import "./components/";
