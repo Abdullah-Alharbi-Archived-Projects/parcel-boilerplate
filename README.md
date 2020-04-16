@@ -34,3 +34,24 @@ $ npm run dev # or use yarn
 ```
 
 4. Start developemnt
+
+### Structure
+
+```
+.
+|-- .babelrc # babel configurations goes here
+|-- package.json
+|-- public
+|   `-- index.html # application entry
+`-- src # all components goes here
+    |-- App.jsx # the entry component
+    |-- app.js # the application entry
+    |-- compiler
+    |   `-- index.js # the compile function
+    `-- scss # all styles goes here
+        |-- _defaults.scss #  to overwrite bootstrap 4 default styles
+        |-- _variables.scss # to overwrite bootstrap 4 default variables
+        |-- app.scss # entry scss file
+        `-- components # component styles goes here
+            `-- index.scss # import all the scss files to this file
+```
