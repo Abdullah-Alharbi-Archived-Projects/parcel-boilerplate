@@ -13,6 +13,8 @@
 7. Super fast
 8. uses scss to customize bootstrap 4 components
 
+---
+
 ### Setup
 
 1. clone this repository
@@ -35,6 +37,8 @@ $ npm run dev # or use yarn
 
 4. Start developemnt
 
+---
+
 ### Structure
 
 ```
@@ -55,3 +59,15 @@ $ npm run dev # or use yarn
         `-- components # component styles goes here
             `-- index.scss # import all the scss files to this file
 ```
+
+---
+
+### Build The Application
+
+**Run this script to build the application**
+
+```
+$ npm run build # or use yarn
+```
+
+**this will build the `dist` directory**
