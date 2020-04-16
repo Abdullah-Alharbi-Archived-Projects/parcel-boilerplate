@@ -11,3 +11,26 @@
 5. Similar to react
 6. uses dom directly
 7. Super fast
+8. uses scss to customize bootstrap 4 components
+
+### Setup
+
+1. clone this repository
+
+```
+$ git clone https://github.com/W2AlharbiMe/parcel-boilerplate.git
+```
+
+2. cd in the directory and run
+
+```
+$ npm install # you can also use yarn
+```
+
+3. run development command
+
+```
+$ npm run dev # or use yarn
+```
+
+5. Start developemnt
