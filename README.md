@@ -8,3 +8,6 @@
 2. Easy to setup
 3. Using modren javascript features
 4. Comes with babel configured
+5. Similar to react
+6. uses dom directly
+7. Super fast
