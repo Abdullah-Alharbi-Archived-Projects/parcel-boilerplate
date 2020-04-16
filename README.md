@@ -1,6 +1,6 @@
 # 📦 Parcel Boilerplate
 
-> This is a simple and easy workflow for front-end development using vanila javascript
+> This is a minimal and easy workflow for front-end development using vanila javascript
 
 ## 💎 Features:
 
