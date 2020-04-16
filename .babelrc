@@ -6,6 +6,8 @@
         "corejs": 2,
         "regenerator": true
       }
-    ]
+    ],
+    "@babel/plugin-syntax-jsx",
+    ["@babel/plugin-transform-react-jsx", { "pragma": "compile" }]
   ]
 }
